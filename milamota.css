@@ -1,0 +1,34 @@
+body {
+  background-color: cornsilk;
+}
+
+h1 {
+  position: relative;
+  top: 200px;
+  left: 300px;
+  font-size: 300px;
+  font-style: italic;
+  color: purple;
+}
+
+.milamotaaa {
+  position: relative;
+  left: 50px;
+}
+
+.milamotaa {
+  position: relative;
+  left: 200px;
+}
+
+.milicoti {
+  position: relative;
+  left: 300px;
+}
+
+.milimoti {
+  position: relative;
+  left: 500px;
+  width: 350px;
+  height: 350px;
+}
